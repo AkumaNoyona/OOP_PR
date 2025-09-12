@@ -1,3 +1,5 @@
+package ru.mirea.uibo1.myasnikova.pr1;
+
 public class Task3 {
     public static void main(String[] args) {
         System.out.println("Числа гармонического ряда:");

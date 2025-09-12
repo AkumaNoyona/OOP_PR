@@ -1,3 +1,5 @@
+package ru.mirea.uibo1.myasnikova.pr1;
+
 public class Task1 {
     public static void main(String[] args) {
         int[] numbers = {5, 8, 12, 3, 7, 15, 9, 6, 4, 10};

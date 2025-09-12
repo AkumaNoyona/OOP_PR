@@ -1,3 +1,5 @@
+package ru.mirea.uibo1.myasnikova.pr1;
+
 import java.util.Scanner;
 public class Task2 {
     public static void main(String[] args) {
