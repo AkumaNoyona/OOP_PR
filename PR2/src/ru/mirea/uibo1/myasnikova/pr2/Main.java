@@ -14,8 +14,5 @@ public class Main {
         author.setGender('m');
         System.out.println("\nАвтор: "+ author);
         System.out.println("My favorite author: " + author.getName());
-
-
-
     }
 }
