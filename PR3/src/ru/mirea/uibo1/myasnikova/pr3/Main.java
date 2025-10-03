@@ -29,13 +29,13 @@ public class Main {
         Shape s4 = new Square(6.6); System.out.println(s4);
         System.out.println(s4.getArea());
         System.out.println(s4.getColor());
-        System.out.println(s4.getSide());
+        System.out.println(s4.getWidth());
 
         Rectangle r2 = (Rectangle)s4;
         System.out.println(r2);
         System.out.println(r2.getArea());
         System.out.println(r2.getColor());
-        System.out.println(r2.getSide());
+        System.out.println(r2.getWidth());
         System.out.println(r2.getLength());
 
         Square sq1 = (Square)r2;
